@@ -1,4 +1,4 @@
-FROM python:apline
+FROM python:alpine
 
 WORKDIR /app
 
